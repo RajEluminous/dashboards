@@ -1,0 +1,16 @@
+canvas {
+    width: 100% !important;
+    height: 300px !important;
+}
+
+.system_dashboard .x_content .card {
+    min-height: 15rem;
+}
+
+.system_dashboard .x_content a {
+    font-weight: 300;
+}
+
+.font-xs {
+    font-size: 0.7rem;
+}
